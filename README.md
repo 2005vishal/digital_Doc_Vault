@@ -2,6 +2,14 @@
 
 **Digi Sanchay** is a highly secure, Flutter-based mobile document vault designed to help users organize, secure, and sync their important documents. Built with a focus on privacy, it utilizes local biometric authentication and Google Drive integration for seamless backups.
 
+**Download APK File For Demo**
+  # Digi Sanchay 🛡️
+
+  [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases/download/v1.0.0/app-release.apk)
+
+  **Digi Sanchay** is your personal digital vault. Securely store, manage, and sync your documents with Google Drive.
+ 
+
 ## 🚀 Features
 
 - **Biometric Security:** Integrated `SecurityGate` that triggers on app launch and lifecycle changes to keep your data private.
@@ -102,3 +110,5 @@ B. Enabling Google Drive API
  3. Navigate to APIs & Services > Library.
 
  4. Search for "Google Drive API" and click Enable.
+
+
