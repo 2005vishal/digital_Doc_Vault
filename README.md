@@ -5,7 +5,7 @@
 **Download APK File For Demo**
   # Digi Sanchay 🛡️
 
-  [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/2005vishal/digital_Doc_Vault/releases/download/v1.0.0/app-release.apk)
+  [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/2005vishal/digital_Doc_Vault/releases/download/v1.0.0/digi.sanchay.apk)
 
   **Digi Sanchay** is your personal digital vault. Securely store, manage, and sync your documents with Google Drive.
  
