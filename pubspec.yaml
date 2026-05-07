@@ -1,0 +1,56 @@
+name: doc_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0 # Standard compatibility
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Google Drive Integration
+  googleapis: ^16.0.0
+  googleapis_auth: ^2.0.0
+  http: ^1.2.0
+  
+
+  # Database & Files
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  path_provider: ^2.1.2
+  
+  # Utils
+  shared_preferences: ^2.2.2
+  share_plus: ^12.0.2
+  sqflite_common_ffi: ^2.3.0+2
+
+  google_sign_in: ^6.2.1
+  extension_google_sign_in_as_googleapis_auth: ^2.0.12
+  google_sign_in_android: ^6.1.21
+  local_auth: ^2.3.0
+  file_picker: ^8.1.7
+  url_launcher: ^6.3.0
+  intl: ^0.19.0 #(Date formatting ke liye)
+  open_filex: ^4.5.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.13.1 
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app_icon.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+
+
